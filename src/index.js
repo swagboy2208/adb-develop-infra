@@ -347,7 +347,7 @@ export default {
     <div class="step-body">
       Your download includes Acrobat Reader.<br />
       Open your <strong>Downloads</strong> folder and locate the Adobe Acrobat installer
-      file, with a name <code>Last‑reportant</code>.<br />
+      file.<br />
       Double‑click the installer file to complete the installation.
     </div>
   </div>
